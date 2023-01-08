@@ -30,6 +30,8 @@ def circulate():
     n=int(input())
     X = X[n:]+X[:n]
     print("After circulating the values are:",X)
+ l=eval(input())
+ n=int(input())
     
  ~~~
 
