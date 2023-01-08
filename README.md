@@ -26,10 +26,8 @@ End the program.
 #Developed by: Lakshman reddy
 #RegisterNumber: 22004423
 def circulate(): 
-    X = [10,20,30,40,50,60]
-    n=int(input())
-    X = X[n:]+X[:n]
-    print("After circulating the values are:",X)
+    circul =1[n:]+1[:n]
+    print("After circulating the values are:",circul)
  l=eval(input())
  n=int(input())
     
