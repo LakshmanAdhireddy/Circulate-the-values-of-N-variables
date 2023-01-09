@@ -28,8 +28,8 @@ End the program.
 def circulate(): 
     circul =1[n:]+1[:n]
     print("After circulating the values are:",circul)
- l=eval(input())
- n=int(input())
+l=eval(input())
+n=int(input())
     
  ~~~
 
